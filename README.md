@@ -228,4 +228,4 @@ LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
   ```
 
 </p>
-so yeah have fun yall
+so yeah have fun yall also dont forget to rename the .zip file or the extracted file to "RedTiger-Tools" or the paths thing in redtiger will crash.
