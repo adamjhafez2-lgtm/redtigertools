@@ -1,5 +1,5 @@
 #  Redtigertools
-a fork i hade of redtigertools multitool before github deleted it.
+a fork i made of redtigertools multitool before github deleted it.
 this is not my project i give full credits to loxy0dev.
 some things might be missing but i dont think anything is missing
 full credits to loxy0dev for creating and devloping this awesome project
