@@ -1,3 +1,10 @@
+#  Redtigertools
+a fork i hade of redtigertools multitool before github deleted it.
+this is not my project i give full credits to loxy0dev.
+some things might be missing but i dont think anything is missing
+full credits to loxy0dev for creating and devloping this awesome project
+- https://guns.lol/loxy0dev
+this is the actual readme file 
 
 
 <img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
@@ -221,3 +228,4 @@ LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
   ```
 
 </p>
+so yeah have fun yall
