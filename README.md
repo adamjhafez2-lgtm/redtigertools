@@ -228,8 +228,7 @@ LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
   ```
 
 </p>
-so yeah have fun yall
-> dont forget to rename the project root to RedTiger-Tools so it doesnt fail
-> start setup.py first then it will auto run redtiger.py when using the multitool again run the menu straight
-> i do not condone hacking or doxxing and i give full credits to loxydev
+- so yeah have fun yall
 
+> dont forget to rename the project root to "RedTiger-Tools" for it to not fail.
+> i do not condone hacking or attacking or scripting and i give full credits to loxydev i didnt create this project but he did.
