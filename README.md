@@ -228,8 +228,8 @@ LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
   ```
 
 </p>
-so yeah have fun yall also dont forget to rename the .zip file or the extracted file to "RedTiger-Tools" or the paths thing in redtiger will crash.
-i do not condone hacking or doxxing anyone.
-this is educational purposes only.
-i give full credits to loxydev
+so yeah have fun yall
+> dont forget to rename the project root to RedTiger-Tools so it doesnt fail
+> start setup.py first then it will auto run redtiger.py when using the multitool again run the menu straight
+> i do not condone hacking or doxxing and i give full credits to loxydev
 
